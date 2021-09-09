@@ -1,4 +1,4 @@
-# Google-Cloud-journal
+# Google-Cloud-Journal
 Google Cloud Platforms
 
 ### Topic List Google-Cloud-Certifications
